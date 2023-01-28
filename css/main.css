@@ -1,0 +1,36 @@
+/* @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic); */
+html {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 500;
+	font-size: 2rem;
+}
+button {
+	font-family: inherit;
+}
+.first__letter {
+	text-transform: uppercase;
+	color: red;
+}
+.cool {
+	font-family: inherit;
+	font-weight: bold;
+	color: dodgerblue;
+	text-decoration: underline;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.back_h1 {
+	text-transform: uppercase;
+	font-weight: 400;
+	color: yellow;
+	background-color: red;
+}
+
+.hidden {
+	display: none;
+}
+
+
