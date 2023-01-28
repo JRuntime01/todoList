@@ -3,9 +3,10 @@ let button = document.getElementById('enter');
 let uinput = document.getElementById('userinput');
 let ul = document.querySelector('ul');
 let li = document.getElementsByTagName('li');
-for (let i = 0; i < ul.children.length; i++) {
-  li[i].addEventListener('click', toggleLine);
-}
+
+// for (let i = 0; i < ul.children.length; i++) {
+//   li[i].addEventListener('click', toggleLine);
+// }
 
 // for (let i = 0; i < ul.children.length; i++) {
 //   let newBtn = document.createElement('button');
